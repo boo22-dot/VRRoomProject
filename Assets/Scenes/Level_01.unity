@@ -414,6 +414,10 @@ PrefabInstance:
       propertyPath: m_Target
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 8324439472033582582, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8806329115733545877, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: m_Name
       value: XR Origin Hands (XR Rig)
@@ -458,7 +462,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 583340563854170035, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
     m_RemovedGameObjects:
     - {fileID: 4997467533222406214, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
     - {fileID: 7831294959730165392, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
